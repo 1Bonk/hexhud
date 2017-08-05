@@ -2955,7 +2955,6 @@ Scheme
 			}
 		}
 
-
 		Avalanche16
 		{
 			"1"
@@ -2965,7 +2964,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
 
 
 		Avalanche20
@@ -2978,6 +2976,48 @@ Scheme
 			}
 		}
 
+		Avalanche24
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		Avalanche36
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+
+
+		Avalanche48
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+
+		Avalanche56
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+
+// Avalanche regular ^
 
 		AvalancheBold12
 		{
@@ -2988,7 +3028,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
 
 		AvalancheBold16
 		{
@@ -3011,8 +3050,48 @@ Scheme
 			}
 		}
 
-	}
+		AvalancheBold24
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche Black"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
 
+		AvalancheBold32
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche Black"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+
+
+		AvalancheBold48
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche Black"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+
+		AvalancheBold56
+		{
+			"1"
+			{
+				"name"		"Vintage Avalanche Black"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+	}
+	//AvalancheBold ^
 	//	These are the fonts I'm using in my custom HUD
 
 	//
