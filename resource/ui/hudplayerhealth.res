@@ -125,7 +125,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusMilkImage"
-		"xpos"			"117"
+		"xpos"			"113"
 		"xpos_minmode"	"102"
 		"ypos"			"0"
 		"zpos"			"7"
@@ -356,7 +356,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_Parachute"
-		"xpos"			"85"
+		"xpos"			"90"
 		"xpos_minmode"	"70"
 		"ypos"			"0"
 		"zpos"			"7"
